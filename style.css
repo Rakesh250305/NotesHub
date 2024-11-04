@@ -108,7 +108,7 @@ body{
 
     .navbar{
         position: absolute;
-        top: 100%;
+        top: 80%;
         left: 0;
         height: 0;
         width: 100%;
@@ -145,7 +145,6 @@ body{
     margin: 200px;
     margin-left: 50px;
     padding: 10px;
-    /* background: plum; */
 }
 
 .main h1{
@@ -209,19 +208,3 @@ body{
       0 0.0625em 0 0 #ececec, 0 0.125em 0 0 #e0e0e0, 0 0.125em 0 0 #dedede,
       0 0.2em 0 0 #dcdcdc, 0 0.225em 0 0 #cacaca, 0 0.225em 0.375em 0 #cecece;
   }
-/* 
-button{
-    font: inherit;
-    background-color: #f0f0f0;
-    border: 0;
-    color: #242424;
-    border-radius: 0.5em;
-    font-size: 1.35rem;
-    padding: 0.375em 1em;
-    font-weight: 600;
-
-
-}
-
-
-   */
